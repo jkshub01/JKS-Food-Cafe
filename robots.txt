@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jkshub01.github.io/JKS-Food-Cafe/sitemap.xml
